@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iransans";
+  src: local("iransans"),
+    url("./fonts/iransans/IRANSansWeb(FaNum).woff2") format("woff2");
+}
+@font-face {
+  font-family: "iransansBold";
+  src: local("iransansBold"),
+    url("./fonts/iransans/IRANSansWeb(FaNum)_Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "iransansLight";
+  src: local("iransansLight"),
+    url("./fonts/iransans/IRANSansWeb(FaNum)_Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "iransansMedium";
+  src: local("iransansMedium"),
+    url("./fonts/iransans/IRANSansWeb(FaNum)_Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "iransansUltraLight";
+  src: local("iransansUltraLight"),
+    url("./fonts/iransans/IRANSansWeb(FaNum)_UltraLight.woff2") format("woff2");
+}
+
+body {
+  font-family: iransans, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
