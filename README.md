@@ -3,8 +3,12 @@
 ## Overview
 The Judicial Staff Management Application is a comprehensive software solution developed by Reza Zeraatkar. The application is designed to store and manage employee data, including applauses, punishments, remarks, and penalties. It also provides personal reporting for each staff member and filterable reporting to obtain meticulous results from the data. The application is bifurcated into two primary components: the server-side, constructed with Express.js, and the client-side, developed using React.js and RTK Query.
 
-## Demo
+## Demo (username: reza, password: 123456)
 You can check out the demo version of the application [here](https://reactjsystem.iran.liara.run/login) (username: reza, password: 123456). Please note that the demo version may not include all the features of the full application.
+
+<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671039/github-readme-images/zog6pfnrpwhb0i22cmyi.png" height="400" />
+<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671038/github-readme-images/ow9crmi859dvb71fb0aa.png" height="400" />
+<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671040/github-readme-images/sqmuqzd1lme8ovxuzhk5.png" height="400" />
 
 ## Server-Side Architecture
 The server-side of the application is the backbone of the system, responsible for managing requests and responses. It leverages a multitude of packages to ensure seamless operation. Key packages include:
@@ -33,8 +37,8 @@ The client-side of the application, developed with React.js, utilizes a range of
 ## Features
 - **Employee Management**: Store and manage employee data, including applauses, punishments, remarks, and penalties.
 - **Personal Reporting**: Generate personal reports for each staff member.
-- **Filterable Reporting**: Obtain meticulous results from the data using filterable reporting.
-- **Data Export**: Download reports as Excel files for offline use and further analysis.
+- **Filterable Reporting**: Obtain fine-grained results from the data using filterable reporting.
+- **Data Export**: Download reports as Excel files or Office Word Documents.
 
 ## License
 This project is licensed under the terms of the MIT license. See the [https://opensource.org/license/mit/] file for details.
