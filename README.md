@@ -1,7 +1,7 @@
 # Judicial Staff Management Application
 
 ## Overview
-The Judicial Staff Management Application is a comprehensive software solution developed by Reza Zeraatkar. The application is designed to store and manage employee data, including applauses, punishments, remarks, and penalties. It also provides personal reporting for each staff member and filterable reporting to obtain meticulous results from the data. The application is bifurcated into two primary components: the server-side, constructed with Express.js, and the client-side, developed using React.js and RTK Query.
+The Judicial Staff Management Application is a comprehensive software solution developed by Reza Zeraatkar and it's now working on an organization. The application is designed to store and manage employee data, including applauses, punishments, remarks, and penalties. It also provides personal reporting for each staff member and filterable reporting to obtain meticulous results from the data. The application is bifurcated into two primary components: the server-side, constructed with Express.js, and the client-side, developed using React.js and RTK Query.
 
 ## Demo (username: reza, password: 123456)
 You can check out the demo version of the application [here](https://reactjsystem.iran.liara.run/login) (username: reza, password: 123456). Please note that the demo version may not include all the features of the full application.
