@@ -6,9 +6,9 @@ The Judicial Staff Management Application is a comprehensive software solution d
 ## Demo (username: reza, password: 123456)
 You can check out the demo version of the application [here](https://reactjsystem.iran.liara.run/login) (username: reza, password: 123456). Please note that the demo version may not include all the features of the full application.
 
-<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671039/github-readme-images/zog6pfnrpwhb0i22cmyi.png" height="400" />
-<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671038/github-readme-images/ow9crmi859dvb71fb0aa.png" height="400" />
-<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671040/github-readme-images/sqmuqzd1lme8ovxuzhk5.png" height="400" />
+<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671039/github-readme-images/zog6pfnrpwhb0i22cmyi.png" height="400" width="100%"/>
+<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671038/github-readme-images/ow9crmi859dvb71fb0aa.png" height="400" width="100%"/>
+<img src="https://res.cloudinary.com/db7v5ycxn/image/upload/v1702671040/github-readme-images/sqmuqzd1lme8ovxuzhk5.png" height="400" width="100%"/>
 
 ## Server-Side Architecture
 The server-side of the application is the backbone of the system, responsible for managing requests and responses. It leverages a multitude of packages to ensure seamless operation. Key packages include:
